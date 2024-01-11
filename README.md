@@ -1,8 +1,15 @@
-# React + Vite
+# Datastructures Assignments for FullStack HBC 
+Live -->  https://candid-duckanoo-191eb5.netlify.app/ 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)](https://reactjs.org/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Assignments included in this repo
+
+- 01 Create a simple palindrome checker app
+- 02 Create a simple bubble sort / selection sort app
+- 03 Create a simple stack data structure app
+- 04 Create a simple queue data structure app (OPTIONAL)
+
+
